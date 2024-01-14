@@ -1,0 +1,507 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.q1{
+    width: 100%;
+}
+ 
+.navbar{
+background-color: whitesmoke;
+
+}
+.nav-link{
+color:black;
+font-size: 1rem;
+font-weight: 700;
+cursor: pointer;
+text-decoration: none;
+}
+.nav-link:hover{
+    color: white;
+    background-color: black;
+}
+.navbar-brand{
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+}
+ 
+
+
+.q2{
+ position: relative;
+ bottom: 510px;
+ left: 480px;
+ color: rgb(250, 250, 8);
+ font-size: 50px;
+ font-weight: 500;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.q3{
+     position: relative;
+     /* color: hsl(60, 86%, 73%); */
+     color: rgb(250, 250, 8);
+     bottom: 520px;
+     left: 590px;
+     font-size: 60px;
+     font-weight: 700;
+     letter-spacing: 6px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.he3{
+    position: relative;
+    bottom: 500px;
+    color: whitesmoke;
+    left: 600px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+.t4{
+    position: relative;
+    bottom: 370px;
+    left: 610px;
+    color: blue;
+}
+.t5{
+    position: relative;
+    bottom: 400px;
+    left: 660px;
+    color:palevioletred;
+}
+.t6{
+    position: relative;
+    bottom: 430px;
+    left: 710px;
+    color:rgb(69, 184, 255);
+}
+.t7{
+    position: relative;
+    bottom: 460px;
+    left: 760px;
+    color: #3737f8;
+}
+ 
+.q4{
+    width: 220px;
+    position: relative;
+top: 30px;
+    left: 100px;
+    }
+    .div2{
+        position: relative;
+        bottom: 970px;
+        
+    } 
+    .q5{
+color: black;
+position: relative;
+left: 350px;
+bottom: 220px;
+    }
+    .q6{
+color: black;
+position: relative;
+left: 410px;
+ bottom: 260px;
+    }
+    .q7{
+color: black;
+position: relative;
+bottom: 270px;
+left: 360px;
+    }
+    .q8{
+color: black;
+position: relative;
+bottom: 310px;
+left: 410px;
+    }
+    .q9{
+color: black;
+position: relative;
+bottom:320px;
+left: 330px;
+    }
+    .q10{
+color: black;
+position: relative;
+bottom:361px ;
+left:435px;
+    }
+    .q11{
+        color: black;
+        position: relative;
+        left: 360px;
+        bottom: 370px;
+    }
+    .q12{
+        color: black;
+        position: relative;
+        left: 410px;
+         bottom: 411px;
+    }
+    .q13{
+        color: black;
+        position: relative;
+        left: 590px;
+        bottom: 637px;
+    }
+    .q14{
+        color: black;
+        position: relative;
+        left: 664px;
+         bottom: 678px;
+    }
+    .q15{
+        color: black;
+        position: relative;
+        left: 590px;
+        bottom: 685px;
+    }
+    .q16{
+        color: black;
+        position: relative;
+        left: 660px;
+         bottom: 725px;
+    }
+    .q17{
+        color: black;
+        position: relative;
+        left: 590px;
+        bottom: 735px;
+    }
+    .q18{
+        color: black;
+        position: relative;
+        left: 740px;
+         bottom: 776px;
+    }
+    .q19{
+        color: black;
+        position: relative;
+        left: 590px;
+        bottom: 785px;
+    }
+    .q20{
+        color: black;
+        position: relative;
+        left: 670px;
+         bottom: 826px;
+    }
+    .q21{
+font-size: 40px;
+font-weight: 700;
+color: rgb(51, 51, 226);
+position: relative;
+right: 490px;
+top: 580px;
+    }
+    .q22{
+        position: relative;
+        left: 99px;
+        top: 570px;
+        color: blue;
+    }
+    .p1{
+        position: relative;
+        left: 890px;
+        top: 560px;
+        font-size: 20px;
+        
+    }
+    .body{
+        background: #333;
+        text-transform: uppercase;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        position: relative;
+        bottom: 1500px;
+    }
+    h1{
+        text-align: center;
+    }
+h3{
+    margin: 5px;
+}
+.skill{
+    width: 500px;
+    margin: 60px auto;
+    color: #fff;
+    padding: 20px;
+    box-shadow: 0 14px 28px rgba( 0,0,0,0,25), 0 10px 10px rgba( 0,0,0,0,22);
+}
+.skill li{
+    margin: 20px 0;
+    padding: 10px;
+}
+.bar{
+    background-color: #353b48;
+    display: block;
+    height: 20px;
+    border: 1px solid rgba(0,0,0,0,3);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0,12) 0 1px 2px rgba(0,0,0,0,24);
+    transition: all 0.3s cubic-bezier(.23,.8,.25,.1);
+}
+.bar:hover{
+     box-shadow:0 28px 14px rgba(0,0,0,0,25), 0 10px 10px rgba( 0,0,0,0,22) ;
+}
+.bar span{
+    height: 20px;
+    float: left;
+background: linear-gradient(135deg, rgb(53, 230, 9)0%, rgb(255, 51, 51)100% );
+}
+.html{
+    width: 95%;
+    animation: html 3s;
+}
+.css{
+    width: 84%;
+    animation: css 3s;
+}
+.javaScript{
+    width: 30%;
+    animation: javascript 3s;
+}
+.digitalmarkitting{
+    width: 70%;
+    animation: digitalmarkitting 3s;
+}
+@keyframes html{
+0%{
+    width: 0%;
+}
+100%{
+    width: 95%;
+}
+}
+
+@keyframes css{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 84%;
+    }
+}
+@keyframes javascrpt{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 30%;
+    }
+}
+@keyframes digitalmarkitting{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 70%;
+    }
+}
+.div-5{
+    text-align: center;
+    position: relative;
+    bottom: 1490px;
+}
+.div-7{
+    position: relative;
+    bottom: 200px;
+}
+.w1{
+letter-spacing: 3;
+font-size: 60px;
+font-weight: 600;
+}
+.w3{
+    position: relative;
+    top: 80px;
+    left: 190px;
+}
+.w4{
+    position: relative;
+bottom: 1340px;
+left: 190px;
+}
+.w5{
+    position: relative;
+bottom: 1926px;
+left: 530px;
+}
+.w6{
+    position: relative;
+top: 65px;
+}
+.w7{
+position: relative;
+bottom: 545px;
+left: 340px;
+}
+.w8{
+    position: relative;
+left: 340px;
+bottom: 480px;
+}
+.w9{
+position: relative;
+bottom: 430px;
+right: 345px;
+}
+.w10{
+position: relative;
+bottom: 700px;
+
+}
+.w11{
+position: relative;
+bottom: 975px;
+left: 345px;
+}
+.w12{
+    position: relative;
+    letter-spacing: 3px;
+    color: black;
+    position: relative;
+    bottom: 2590px;
+    right: 390px;
+    font-weight: 650;
+}
+.w13{
+    position: relative;
+    bottom: 2550px;
+    left: 140px;
+}
+.w14{
+    position: relative;
+    bottom: 2720px;
+    left: 595px;
+    height: 40px;
+    width: 260px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.w15{
+position: relative;
+bottom: 2761px;
+left: 875px;
+height: 40px;
+width: 260px;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+}
+.w16{
+position: relative;
+bottom: 2730px;
+left: 595px;
+height: 40px;
+width: 540px;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+}
+.w17{
+    position: relative;
+    bottom: 2700px;
+    left: 595px;
+    height: 120px;
+    text-align: center;
+    width: 540px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.w18{
+    position: relative;
+    bottom: 2740px;
+    left: 89px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    
+}
+.w19{
+    position: relative;
+    bottom: 2850px;
+    left: 140px; color:blue;
+}
+.w20{
+position: relative;
+left: 40px;
+bottom: 28px;
+color: palevioletred;
+}
+.w21{
+position: relative;
+bottom: 58px;
+left: 80px;
+color: lightskyblue;
+}
+.w22{
+    position: relative;
+    left: 120px;
+    bottom: 88px;
+    color: rgb(96, 96, 240);
+}
+.t1{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 540px;
+    position: relative;
+    top: 50px;
+    left: 455px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} 
+
+
+.footer-div{
+    height: 260px;
+    width: 100%;
+    background-color: whitesmoke;
+    position: relative;
+    bottom: 2700px;
+     
+}
+.f1{
+position: relative;
+left: 620px;
+top: 53px;
+ color: grey;
+}
+.f2{
+position: relative;
+left: 670px;
+top: 27px;
+color: grey;
+}
+.f3{
+position: relative;
+left: 722px;
+color: grey;
+}
+.f4{
+position: relative;
+left: 770px;
+bottom: 25px;
+color: grey;
+}
+.f5{
+    position: relative;
+    left: 450px;
+}
+.last{
+    position: relative;
+    color: grey;
+    left: 600px;
+}
+.last2{
+    height: 0;
+    width: 0;
+}
